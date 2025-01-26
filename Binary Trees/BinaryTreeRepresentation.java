@@ -1,4 +1,4 @@
-You are given an array nodes. It contains 7 integers, which represents the value of nodes of the binary tree in level order traversal. You are also given a root of the tree which has a value equal to nodes[0].
+//You are given an array nodes. It contains 7 integers, which represents the value of nodes of the binary tree in level order traversal. You are also given a root of the tree which has a value equal to nodes[0].
 
 class Solution{
     public static void createTree(Node root0, ArrayList<Integer> v ){
