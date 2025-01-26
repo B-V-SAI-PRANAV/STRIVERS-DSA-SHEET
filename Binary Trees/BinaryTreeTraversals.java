@@ -9,7 +9,7 @@ class Pair{
         this.number=num;
     }
 }
-public class Solution {
+public class  BinaryTreeTraversals{
     public static List<List<Integer>> getTreeTraversal(TreeNode root) {
         // Write your code here.
         List<List<Integer>> ans=new ArrayList<>();
